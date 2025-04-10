@@ -1,0 +1,1 @@
+![Diabetes Prediction Web App](https://cdn.discordapp.com/attachments/1212731618022785033/1232279214602350632/image.png?ex=66560b66&is=66439666&hm=3c6fdc6e7b13c39e0c2cdc3a8651c33c9eedbeef9aa6c97a1ba3edcb42a55db9&) 
